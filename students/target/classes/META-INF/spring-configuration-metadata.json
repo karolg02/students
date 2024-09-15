@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "car",
+      "type": "com.karol.students.CarProperties",
+      "sourceType": "com.karol.students.CarProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "car.mark",
+      "type": "java.lang.String",
+      "sourceType": "com.karol.students.CarProperties"
+    },
+    {
+      "name": "car.model",
+      "type": "java.lang.String",
+      "sourceType": "com.karol.students.CarProperties"
+    }
+  ],
+  "hints": []
+}
